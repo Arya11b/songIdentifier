@@ -1,0 +1,7 @@
+﻿  Compiling CUDA source file kernel.cu...
+  
+  F:\Programming\multifinal\multifinal>"F:\Program Files\Nvidia GPU Computing\bin\nvcc.exe" -gencode=arch=compute_35,code=\"sm_35,compute_35\" --use-local-env -ccbin "F:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64" -x cu  -I"F:\Clibs\fftw-3.3.5" -I"F:\Program Files\Nvidia GPU Computing\include" -I"F:\Program Files\Nvidia GPU Computing\include"  -G   --keep-dir x64\Debug -maxrregcount=0  --machine 64 --compile -cudart static  -g   -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Fdx64\Debug\vc140.pdb /FS /Zi /RTC1 /MDd " -o x64\Debug\kernel.cu.obj "F:\Programming\multifinal\multifinal\kernel.cu" 
+  kernel.cu
+     Creating library F:\Programming\multifinal\x64\Debug\multifinal.lib and object F:\Programming\multifinal\x64\Debug\multifinal.exp
+  multifinal.vcxproj -> F:\Programming\multifinal\x64\Debug\multifinal.exe
+  multifinal.vcxproj -> F:\Programming\multifinal\x64\Debug\multifinal.pdb (Full PDB)

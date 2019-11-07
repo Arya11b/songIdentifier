@@ -1,0 +1,115 @@
+﻿  Compiling CUDA source file kernel.cu...
+  
+  F:\Programming\multifinal\multifinal>"F:\Program Files\Nvidia GPU Computing\bin\nvcc.exe" -gencode=arch=compute_35,code=\"sm_35,compute_35\" --use-local-env -ccbin "F:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64" -x cu  -I"F:\Clibs\fftw-3.3.5" -I"F:\Program Files\Nvidia GPU Computing\include" -I"F:\Program Files\Nvidia GPU Computing\include"     --keep-dir x64\Release -maxrregcount=0  --machine 64 --compile -cudart static     -DWIN32 -DWIN64 -DNDEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /O2 /Fdx64\Release\vc140.pdb /FS /Zi  /MD " -o x64\Release\kernel.cu.obj "F:\Programming\multifinal\multifinal\kernel.cu" 
+F:/Programming/multifinal/multifinal/kernel.cu(275): warning : variable "tid" was declared but never referenced
+F:/Programming/multifinal/multifinal/kernel.cu(291): warning : variable "tid" was declared but never referenced
+F:/Programming/multifinal/multifinal/kernel.cu(372): warning : non-POD class type passed through ellipsis
+F:/Programming/multifinal/multifinal/kernel.cu(375): warning : non-POD class type passed through ellipsis
+F:/Programming/multifinal/multifinal/kernel.cu(375): warning : non-POD class type passed through ellipsis
+F:/Programming/multifinal/multifinal/kernel.cu(433): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(529): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(535): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(542): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(548): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(554): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(561): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(565): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(569): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(586): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(592): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(598): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(643): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(649): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(656): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(662): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(668): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(674): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(687): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(695): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(701): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(827): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(838): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(844): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(850): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(857): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(866): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(871): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(878): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(816): warning : variable "h_max" was set but never used
+F:/Programming/multifinal/multifinal/kernel.cu(995): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(1005): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(1011): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(1018): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(1029): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(1037): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(1044): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(1049): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(1076): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(1086): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(1092): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(1099): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(1110): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(1118): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(1125): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(372): warning : non-POD class type passed through ellipsis
+F:/Programming/multifinal/multifinal/kernel.cu(375): warning : non-POD class type passed through ellipsis
+F:/Programming/multifinal/multifinal/kernel.cu(375): warning : non-POD class type passed through ellipsis
+F:/Programming/multifinal/multifinal/kernel.cu(433): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(529): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(535): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(542): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(548): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(554): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(561): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(565): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(569): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(586): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(592): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(598): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(643): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(649): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(656): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(662): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(668): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(674): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(687): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(695): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(701): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(827): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(838): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(844): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(850): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(857): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(866): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(871): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(878): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(995): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(1005): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(1011): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(1018): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(1029): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(1037): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(1044): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(1049): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(1076): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(1086): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(1092): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(1099): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(1110): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(1118): warning : transfer of control bypasses initialization of:
+F:/Programming/multifinal/multifinal/kernel.cu(1125): warning : transfer of control bypasses initialization of:
+  kernel.cu
+F:/Programming/multifinal/multifinal/kernel.cu(372): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+F:/Programming/multifinal/multifinal/kernel.cu(372): warning C4474: 'printf' : too many arguments passed for format string
+  F:/Programming/multifinal/multifinal/kernel.cu(372): note: placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+F:/Programming/multifinal/multifinal/kernel.cu(375): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+F:/Programming/multifinal/multifinal/kernel.cu(375): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+F:/Programming/multifinal/multifinal/kernel.cu(375): warning C4474: 'printf' : too many arguments passed for format string
+  F:/Programming/multifinal/multifinal/kernel.cu(375): note: placeholders and their parameters expect 2 variadic arguments, but 3 were provided
+F:/Programming/multifinal/multifinal/kernel.cu(446): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:/Programming/multifinal/multifinal/kernel.cu(726): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:/Programming/multifinal/multifinal/kernel.cu(727): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     Creating library F:\Programming\multifinal\x64\Release\multifinal.lib and object F:\Programming\multifinal\x64\Release\multifinal.exp
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  multifinal.vcxproj -> F:\Programming\multifinal\x64\Release\multifinal.exe
+  multifinal.vcxproj -> F:\Programming\multifinal\x64\Release\multifinal.pdb (Full PDB)

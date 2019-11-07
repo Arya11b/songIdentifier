@@ -1,0 +1,189 @@
+F:\Program Files\Nvidia GPU Computing\include\cuda_runtime.h
+f:\program files\nvidia gpu computing\include\crt/host_config.h
+F:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\crtdefs.h
+F:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
+F:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\sal.h
+F:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\ConcurrencySal.h
+F:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vadefs.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt.h
+F:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
+f:\program files\nvidia gpu computing\include\builtin_types.h
+f:\program files\nvidia gpu computing\include\device_types.h
+f:\program files\nvidia gpu computing\include\crt/host_defines.h
+f:\program files\nvidia gpu computing\include\driver_types.h
+f:\program files\nvidia gpu computing\include\crt/host_defines.h
+f:\program files\nvidia gpu computing\include\vector_types.h
+f:\program files\nvidia gpu computing\include\crt/host_defines.h
+F:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\limits.h
+F:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stddef.h
+f:\program files\nvidia gpu computing\include\surface_types.h
+f:\program files\nvidia gpu computing\include\driver_types.h
+f:\program files\nvidia gpu computing\include\texture_types.h
+f:\program files\nvidia gpu computing\include\driver_types.h
+f:\program files\nvidia gpu computing\include\vector_types.h
+f:\program files\nvidia gpu computing\include\library_types.h
+f:\program files\nvidia gpu computing\include\channel_descriptor.h
+f:\program files\nvidia gpu computing\include\cuda_runtime_api.h
+f:\program files\nvidia gpu computing\include\crt/host_defines.h
+f:\program files\nvidia gpu computing\include\builtin_types.h
+f:\program files\nvidia gpu computing\include\device_types.h
+f:\program files\nvidia gpu computing\include\driver_types.h
+f:\program files\nvidia gpu computing\include\surface_types.h
+f:\program files\nvidia gpu computing\include\texture_types.h
+f:\program files\nvidia gpu computing\include\vector_types.h
+f:\program files\nvidia gpu computing\include\cuda_device_runtime_api.h
+f:\program files\nvidia gpu computing\include\driver_types.h
+f:\program files\nvidia gpu computing\include\crt/host_defines.h
+f:\program files\nvidia gpu computing\include\cuda_runtime_api.h
+f:\program files\nvidia gpu computing\include\driver_functions.h
+f:\program files\nvidia gpu computing\include\builtin_types.h
+f:\program files\nvidia gpu computing\include\device_types.h
+f:\program files\nvidia gpu computing\include\driver_types.h
+f:\program files\nvidia gpu computing\include\surface_types.h
+f:\program files\nvidia gpu computing\include\texture_types.h
+f:\program files\nvidia gpu computing\include\vector_types.h
+f:\program files\nvidia gpu computing\include\crt/host_defines.h
+f:\program files\nvidia gpu computing\include\driver_types.h
+f:\program files\nvidia gpu computing\include\crt/host_defines.h
+f:\program files\nvidia gpu computing\include\vector_functions.h
+f:\program files\nvidia gpu computing\include\cuda_runtime_api.h
+f:\program files\nvidia gpu computing\include\vector_functions.hpp
+f:\program files\nvidia gpu computing\include\cuda_runtime_api.h
+f:\program files\nvidia gpu computing\include\crt/common_functions.h
+f:\program files\nvidia gpu computing\include\builtin_types.h
+f:\program files\nvidia gpu computing\include\device_types.h
+f:\program files\nvidia gpu computing\include\driver_types.h
+f:\program files\nvidia gpu computing\include\surface_types.h
+f:\program files\nvidia gpu computing\include\texture_types.h
+f:\program files\nvidia gpu computing\include\vector_types.h
+f:\program files\nvidia gpu computing\include\crt\host_defines.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_memory.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_memcpy_s.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\errno.h
+F:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_string.h
+F:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wtime.h
+f:\program files\nvidia gpu computing\include\crt\math_functions.h
+f:\program files\nvidia gpu computing\include\builtin_types.h
+f:\program files\nvidia gpu computing\include\device_types.h
+f:\program files\nvidia gpu computing\include\driver_types.h
+f:\program files\nvidia gpu computing\include\surface_types.h
+f:\program files\nvidia gpu computing\include\texture_types.h
+f:\program files\nvidia gpu computing\include\vector_types.h
+f:\program files\nvidia gpu computing\include\crt\host_defines.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_malloc.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_search.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdlib.h
+F:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cmath
+F:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\yvals.h
+F:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xkeycheck.h
+F:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\crtdefs.h
+F:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
+F:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\use_ansi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+F:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xtgmath.h
+F:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xtr1common
+F:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib
+f:\program files\nvidia gpu computing\include\crt\math_functions.hpp
+f:\program files\nvidia gpu computing\include\builtin_types.h
+f:\program files\nvidia gpu computing\include\device_types.h
+f:\program files\nvidia gpu computing\include\driver_types.h
+f:\program files\nvidia gpu computing\include\surface_types.h
+f:\program files\nvidia gpu computing\include\texture_types.h
+f:\program files\nvidia gpu computing\include\vector_types.h
+f:\program files\nvidia gpu computing\include\crt\host_defines.h
+f:\program files\nvidia gpu computing\include\cuda_surface_types.h
+f:\program files\nvidia gpu computing\include\channel_descriptor.h
+f:\program files\nvidia gpu computing\include\cuda_runtime_api.h
+f:\program files\nvidia gpu computing\include\cuda_texture_types.h
+f:\program files\nvidia gpu computing\include\channel_descriptor.h
+f:\program files\nvidia gpu computing\include\cuda_runtime_api.h
+f:\program files\nvidia gpu computing\include\crt/device_functions.h
+f:\program files\nvidia gpu computing\include\builtin_types.h
+f:\program files\nvidia gpu computing\include\device_types.h
+f:\program files\nvidia gpu computing\include\driver_types.h
+f:\program files\nvidia gpu computing\include\surface_types.h
+f:\program files\nvidia gpu computing\include\texture_types.h
+f:\program files\nvidia gpu computing\include\vector_types.h
+f:\program files\nvidia gpu computing\include\device_types.h
+f:\program files\nvidia gpu computing\include\crt\host_defines.h
+f:\program files\nvidia gpu computing\include\crt\device_functions.hpp
+f:\program files\nvidia gpu computing\include\builtin_types.h
+f:\program files\nvidia gpu computing\include\device_types.h
+f:\program files\nvidia gpu computing\include\driver_types.h
+f:\program files\nvidia gpu computing\include\surface_types.h
+f:\program files\nvidia gpu computing\include\texture_types.h
+f:\program files\nvidia gpu computing\include\vector_types.h
+f:\program files\nvidia gpu computing\include\device_types.h
+f:\program files\nvidia gpu computing\include\crt\host_defines.h
+f:\program files\nvidia gpu computing\include\device_atomic_functions.h
+f:\program files\nvidia gpu computing\include\cuda_runtime_api.h
+f:\program files\nvidia gpu computing\include\cuda_runtime_api.h
+f:\program files\nvidia gpu computing\include\crt\device_double_functions.h
+f:\program files\nvidia gpu computing\include\builtin_types.h
+f:\program files\nvidia gpu computing\include\device_types.h
+f:\program files\nvidia gpu computing\include\driver_types.h
+f:\program files\nvidia gpu computing\include\surface_types.h
+f:\program files\nvidia gpu computing\include\texture_types.h
+f:\program files\nvidia gpu computing\include\vector_types.h
+f:\program files\nvidia gpu computing\include\device_types.h
+f:\program files\nvidia gpu computing\include\crt\host_defines.h
+f:\program files\nvidia gpu computing\include\crt\device_double_functions.hpp
+f:\program files\nvidia gpu computing\include\builtin_types.h
+f:\program files\nvidia gpu computing\include\device_types.h
+f:\program files\nvidia gpu computing\include\driver_types.h
+f:\program files\nvidia gpu computing\include\surface_types.h
+f:\program files\nvidia gpu computing\include\texture_types.h
+f:\program files\nvidia gpu computing\include\vector_types.h
+f:\program files\nvidia gpu computing\include\device_types.h
+f:\program files\nvidia gpu computing\include\crt\host_defines.h
+f:\program files\nvidia gpu computing\include\sm_20_atomic_functions.h
+f:\program files\nvidia gpu computing\include\cuda_runtime_api.h
+f:\program files\nvidia gpu computing\include\sm_32_atomic_functions.h
+f:\program files\nvidia gpu computing\include\cuda_runtime_api.h
+f:\program files\nvidia gpu computing\include\sm_35_atomic_functions.h
+f:\program files\nvidia gpu computing\include\sm_32_atomic_functions.h
+f:\program files\nvidia gpu computing\include\sm_60_atomic_functions.h
+f:\program files\nvidia gpu computing\include\cuda_runtime_api.h
+f:\program files\nvidia gpu computing\include\sm_20_intrinsics.h
+f:\program files\nvidia gpu computing\include\cuda_runtime_api.h
+f:\program files\nvidia gpu computing\include\sm_30_intrinsics.h
+f:\program files\nvidia gpu computing\include\cuda_runtime_api.h
+f:\program files\nvidia gpu computing\include\sm_32_intrinsics.h
+f:\program files\nvidia gpu computing\include\cuda_runtime_api.h
+f:\program files\nvidia gpu computing\include\sm_35_intrinsics.h
+f:\program files\nvidia gpu computing\include\sm_32_intrinsics.h
+f:\program files\nvidia gpu computing\include\sm_61_intrinsics.h
+f:\program files\nvidia gpu computing\include\cuda_runtime_api.h
+f:\program files\nvidia gpu computing\include\crt\sm_70_rt.h
+f:\program files\nvidia gpu computing\include\builtin_types.h
+f:\program files\nvidia gpu computing\include\device_types.h
+f:\program files\nvidia gpu computing\include\driver_types.h
+f:\program files\nvidia gpu computing\include\surface_types.h
+f:\program files\nvidia gpu computing\include\texture_types.h
+f:\program files\nvidia gpu computing\include\vector_types.h
+f:\program files\nvidia gpu computing\include\device_types.h
+f:\program files\nvidia gpu computing\include\crt\host_defines.h
+f:\program files\nvidia gpu computing\include\surface_functions.h
+f:\program files\nvidia gpu computing\include\cuda_runtime_api.h
+f:\program files\nvidia gpu computing\include\cuda_surface_types.h
+f:\program files\nvidia gpu computing\include\texture_fetch_functions.h
+f:\program files\nvidia gpu computing\include\cuda_runtime_api.h
+f:\program files\nvidia gpu computing\include\cuda_texture_types.h
+f:\program files\nvidia gpu computing\include\texture_indirect_functions.h
+f:\program files\nvidia gpu computing\include\cuda_runtime_api.h
+f:\program files\nvidia gpu computing\include\surface_indirect_functions.h
+f:\program files\nvidia gpu computing\include\cuda_runtime_api.h
+f:\program files\nvidia gpu computing\include\device_launch_parameters.h
+f:\program files\nvidia gpu computing\include\vector_types.h
+F:\Program Files\Nvidia GPU Computing\include\cuda_runtime.h
+F:\Program Files\Nvidia GPU Computing\include\device_launch_parameters.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_stdio_config.h
